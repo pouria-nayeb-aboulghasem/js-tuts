@@ -85,9 +85,21 @@
 
 ## Date
 
+- property list
+- method list
+- static method list
+
 ## Temporals
 
+- method list
+- property list
+
 ## Math
+
+- method list
+  - random
+  - sqrt
+  - abs
 
 ## Control Flow
 
@@ -109,6 +121,9 @@
 - throw
 
 ## DOM
+
+- event
+- element selection
 
 ## BOM
 
@@ -139,6 +154,12 @@
 - location
 - XMLHttpRequest
 
+## Promise
+
+- callback
+- promise
+- async await
+
 ## OOP
 
 - class
@@ -155,3 +176,13 @@
 - abstraction
 
 ## Browser Api
+
+- dom
+- fetch
+- validation
+- storage
+  - local storage
+  - session storage
+- drag and drop
+- geo location
+- web worker
